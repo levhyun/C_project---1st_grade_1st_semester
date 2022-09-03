@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1654169535 source:c:\users\user\desktop\c project\project\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<mbstring.h>
+
+1656329362 source:c:\users\user\desktop\c project\project_青款狼 萍南\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<mbstring.h>
+	<mmsystem.h>
+
+1656329362 source:c:\users\user\documents\c project\project_青款狼 萍南\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<mbstring.h>
+	<mmsystem.h>
+
